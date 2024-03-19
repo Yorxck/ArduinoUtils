@@ -37,7 +37,7 @@ None
 
 ### `print()`
 
-this function will print all params given to it.
+this function will print all params to the serial.
 
 #### Syntax
 ```c++
