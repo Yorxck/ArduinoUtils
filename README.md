@@ -9,8 +9,7 @@ To use this library:
 
 ## functions
 
-<details>
-<summary>### `asrt()`</summary>
+### `asrt()`
 
 this function will error and halt the program if the first value is false, basic assert function.
 
@@ -27,7 +26,6 @@ this function will error and halt the program if the first value is false, basic
 None
 
 ## 
-</details>
 <br/>
 
 ### `uptime()`
