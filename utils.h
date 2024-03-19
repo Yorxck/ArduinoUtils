@@ -33,4 +33,14 @@ void print(Arg arg, Args... args) {
 
   print(args...);
 }
+
+float rad2deg(float rad) {
+  return rad * (180 / PI);
+}
+
+float deg2rad(float deg) {
+  return deg * (PI / 180);
+}
+
+
 #endif
