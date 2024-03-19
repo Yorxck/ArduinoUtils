@@ -22,7 +22,7 @@ this function will error and halt the program if the first value is false, basic
 
 #### Returns
 None
-\n\n
+
 ### `uptime()`
 
 this function will return the uptime of the arduino in a format as `h:mm:ss`.
