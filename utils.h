@@ -1,8 +1,8 @@
 #ifndef UTILS_H
 #define UTILS_H
 
- // _assert: if b is false it will print str and error
-void _assert(bool b, const char* str) {
+ // asrt: if value is false it will print error and halt
+void asrt(bool value, const char* error) {
   if (!b) {
     Serial.println(str);
     for(;;) {}
@@ -20,7 +20,7 @@ char* uptime() {
   return result;
 }
 
-// will print an inf amount of params to the serial
+// will print all params to the serial
 template<typename Arg>
 void print(Arg arg) {
   Serial.println(arg);
