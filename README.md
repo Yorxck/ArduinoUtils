@@ -5,7 +5,7 @@ To use this library:
   #include "utils.h"
 ```
 
-<br/><br/>
+<br/>
 
 ## functions
 
