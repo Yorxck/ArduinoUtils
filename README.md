@@ -25,6 +25,7 @@ this function will error and halt the program if the first value is false, basic
 #### Returns
 None
 
+## 
 <br/><br/>
 
 ### `uptime()`
