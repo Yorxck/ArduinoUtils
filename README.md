@@ -13,7 +13,7 @@ this function will error and halt the program if the first value is false.
 
 #### Syntax
 ```c++
-  _assert(ssd1306.begin(), "failed to initialize!");
+  asrt(ssd1306.begin(), "failed to initialize!");
 ```
 
 #### Parameters
