@@ -55,3 +55,39 @@ this function will print all params to the serial.
 
 #### Returns
 None
+
+### `rad2deg()`
+
+this function will calculate radians to degrees.
+
+#### Syntax
+```c++
+  float deg = rad2deg(1);
+```
+
+#### Parameters
+* `rad`: the radians you want to calculate to degrees.
+
+#### Returns
+* `deg`: the result of the calculation.
+
+#### See also
+* [deg2rad]()
+
+### `deg2rad()`
+
+this function will calculate degrees to radians.
+
+#### Syntax
+```c++
+  float rad = deg2rad(90);
+```
+
+#### Parameters
+* `deg`: the degrees you want to calculate to radians.
+
+#### Returns
+* `rad`: the result of the calculation.
+
+#### See also
+* [rad2deg]()
