@@ -26,7 +26,7 @@ this function will error and halt the program if the first value is false, basic
 None
 
 ## 
-<br/><br/>
+<br/>
 
 ### `uptime()`
 
@@ -45,7 +45,8 @@ None
 #### Returns
 None
 
-<br/><br/>
+## 
+<br/>
 
 ### `print()`
 
@@ -63,7 +64,8 @@ this function will print all params to the serial.
 #### Returns
 None
 
-<br/><br/>
+## 
+<br/>
 
 ### `rad2deg()`
 
@@ -83,7 +85,8 @@ this function will calculate radians to degrees.
 #### See also
 * [deg2rad](#deg2rad)
 
-<br/><br/>
+## 
+<br/>
 
 ### `deg2rad()`
 
