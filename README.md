@@ -72,7 +72,7 @@ this function will calculate radians to degrees.
 * `deg`: the result of the calculation.
 
 #### See also
-* [deg2rad]()
+* [deg2rad](#deg2rad)
 
 ### `deg2rad()`
 
@@ -90,4 +90,4 @@ this function will calculate degrees to radians.
 * `rad`: the result of the calculation.
 
 #### See also
-* [rad2deg]()
+* [rad2deg](#rad2deg)
