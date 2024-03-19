@@ -1,4 +1,9 @@
 # Arduino Utils
+## library
+To use this library:
+```cpp
+  #include "utils.h"
+```
 
 ## functions
 
