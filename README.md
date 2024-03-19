@@ -7,7 +7,7 @@ To use this library:
 
 ## functions
 
-### `aser()`
+### `asrt()`
 
 this function will error and halt the program if the first value is false, basic assert function.
 
