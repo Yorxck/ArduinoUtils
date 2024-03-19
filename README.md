@@ -4,7 +4,9 @@ To use this library:
 ```cpp
   #include "utils.h"
 ```
+
 <br/><br/>
+
 ## functions
 
 ### `asrt()`
@@ -23,6 +25,8 @@ this function will error and halt the program if the first value is false, basic
 #### Returns
 None
 
+<br/><br/>
+
 ### `uptime()`
 
 this function will return the uptime of the arduino in a format as `h:mm:ss`.
@@ -40,6 +44,8 @@ None
 #### Returns
 None
 
+<br/><br/>
+
 ### `print()`
 
 this function will print all params to the serial.
@@ -55,6 +61,8 @@ this function will print all params to the serial.
 
 #### Returns
 None
+
+<br/><br/>
 
 ### `rad2deg()`
 
@@ -73,6 +81,8 @@ this function will calculate radians to degrees.
 
 #### See also
 * [deg2rad](#deg2rad)
+
+<br/><br/>
 
 ### `deg2rad()`
 
