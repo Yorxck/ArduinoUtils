@@ -7,9 +7,9 @@ To use this library:
 
 ## functions
 
-### `_assert()`
+### `aser()`
 
-this function will error and halt the program if the first value is false.
+this function will error and halt the program if the first value is false, basic assert function.
 
 #### Syntax
 ```c++
